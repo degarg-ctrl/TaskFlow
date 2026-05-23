@@ -1,6 +1,10 @@
 # 📋 TaskFlow
 
+<<<<<<< HEAD
 **A mobile-first task management application with secure per-user authentication, built end-to-end on the MERN stack.**
+=======
+TaskFlow is a mobile task management application built using the full stack (React Native + Expo SDK 54, Node.js + Express, MongoDB + Mongoose), state management using Zustand, and per-user JWT authentication.
+>>>>>>> 42d9558fb5f0479b3ab4c6d3ebd116489711083f
 
 ---
 
