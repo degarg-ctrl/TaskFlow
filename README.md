@@ -1,6 +1,6 @@
 # TaskFlow — MERN Task Manager with Auth
 
-TaskFlow is a mobile task management application built using the full MERN stack (React Native + Expo SDK 54, Node.js + Express, MongoDB + Mongoose), state management using Zustand, and per-user JWT authentication.
+TaskFlow is a mobile task management application built using the full stack (React Native + Expo SDK 54, Node.js + Express, MongoDB + Mongoose), state management using Zustand, and per-user JWT authentication.
 
 ## Tech Stack
 * **Frontend**: React Native, Expo SDK 54, Zustand, Axios, React Navigation, AsyncStorage
